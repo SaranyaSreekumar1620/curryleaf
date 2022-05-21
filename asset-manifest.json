@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/curryleaf/static/css/main.0c4b6ddc.css",
+    "main.js": "/curryleaf/static/js/main.5550f305.js",
+    "static/media/storyimg.jpg": "/curryleaf/static/media/storyimg.5ca4716e772637f6bfaa.jpg",
+    "static/media/topbg.jpg": "/curryleaf/static/media/topbg.69e74f34245ba248fe1d.jpg",
+    "static/media/g1-01.png": "/curryleaf/static/media/g1-01.500b2c34e2ea55e00703.png",
+    "static/media/g6-01.jpg": "/curryleaf/static/media/g6-01.979c06b0fc94ec8db59c.jpg",
+    "static/media/g9-01.jpg": "/curryleaf/static/media/g9-01.d889593cffad71e5d130.jpg",
+    "static/media/g4-01.jpg": "/curryleaf/static/media/g4-01.a15fdc5502f57df6b215.jpg",
+    "static/media/g5-01.jpg": "/curryleaf/static/media/g5-01.1329539e8031091538bf.jpg",
+    "static/media/g3-01.jpg": "/curryleaf/static/media/g3-01.85c7966a35832cdde4a6.jpg",
+    "static/media/g8-01.jpg": "/curryleaf/static/media/g8-01.ab8384475d5e400b0185.jpg",
+    "static/media/g7-01.jpg": "/curryleaf/static/media/g7-01.c18b73361ef9ea1ba0fc.jpg",
+    "static/media/g2-01.jpg": "/curryleaf/static/media/g2-01.bf4cafd8485998b3cab9.jpg",
+    "static/media/logo.png": "/curryleaf/static/media/logo.2877d98a6a43b3d41da6.png",
+    "index.html": "/curryleaf/index.html",
+    "main.0c4b6ddc.css.map": "/curryleaf/static/css/main.0c4b6ddc.css.map",
+    "main.5550f305.js.map": "/curryleaf/static/js/main.5550f305.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0c4b6ddc.css",
+    "static/js/main.5550f305.js"
+  ]
+}
